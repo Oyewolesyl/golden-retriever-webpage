@@ -4,8 +4,8 @@ A simple, responsive webpage showcasing a Golden Retriever.
 
 ## 🌐 Live Links
 
-- [Production (Vercel)](https://your-production.vercel.app)
-- [Staging (Vercel)](https://your-staging.vercel.app)
+- [Production (Vercel)](https://vercel.com/sylvannas-projects/golden-retriever-prod)
+- [Staging (Vercel)](https://golden-retriever-webpage-staging-9k3wse465-sylvannas-projects.vercel.app)
 
 ## 🚀 Features
 
